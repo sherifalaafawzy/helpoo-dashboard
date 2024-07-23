@@ -1,0 +1,216 @@
+{
+  "predictions": [
+    {
+      "description": "Sheraton, Sheraton Al Matar, El Nozha, Egypt",
+      "matched_substrings": [
+        {
+          "length": 8,
+          "offset": 0
+        }
+      ],
+      "place_id": "ChIJK8bVhWoWWBQRHN_VVVZpLwk",
+      "reference": "ChIJK8bVhWoWWBQRHN_VVVZpLwk",
+      "structured_formatting": {
+        "main_text": "Sheraton",
+        "main_text_matched_substrings": [
+          {
+            "length": 8,
+            "offset": 0
+          }
+        ],
+        "secondary_text": "Sheraton Al Matar, El Nozha, Egypt"
+      },
+      "terms": [
+        {
+          "offset": 0,
+          "value": "Sheraton"
+        },
+        {
+          "offset": 10,
+          "value": "Sheraton Al Matar"
+        },
+        {
+          "offset": 29,
+          "value": "El Nozha"
+        },
+        {
+          "offset": 39,
+          "value": "Egypt"
+        }
+      ],
+      "types": [
+        "neighborhood",
+        "political",
+        "geocode"
+      ]
+    },
+    {
+      "description": "Sheraton Al Matar, El Nozha, Egypt",
+      "matched_substrings": [
+        {
+          "length": 8,
+          "offset": 0
+        }
+      ],
+      "place_id": "ChIJ6dwAmVMWWBQRJp1BqfnMqKE",
+      "reference": "ChIJ6dwAmVMWWBQRJp1BqfnMqKE",
+      "structured_formatting": {
+        "main_text": "Sheraton Al Matar",
+        "main_text_matched_substrings": [
+          {
+            "length": 8,
+            "offset": 0
+          }
+        ],
+        "secondary_text": "El Nozha, Egypt"
+      },
+      "terms": [
+        {
+          "offset": 0,
+          "value": "Sheraton Al Matar"
+        },
+        {
+          "offset": 19,
+          "value": "El Nozha"
+        },
+        {
+          "offset": 29,
+          "value": "Egypt"
+        }
+      ],
+      "types": [
+        "administrative_area_level_3",
+        "political",
+        "geocode"
+      ]
+    },
+    {
+      "description": "Sheraton Cairo Hotel & Casino, Charles de Gaulle, Ad Doqi A, Dokki, Egypt",
+      "matched_substrings": [
+        {
+          "length": 8,
+          "offset": 0
+        }
+      ],
+      "place_id": "ChIJ2fes49RAWBQRUydnzRnZhzY",
+      "reference": "ChIJ2fes49RAWBQRUydnzRnZhzY",
+      "structured_formatting": {
+        "main_text": "Sheraton Cairo Hotel & Casino",
+        "main_text_matched_substrings": [
+          {
+            "length": 8,
+            "offset": 0
+          }
+        ],
+        "secondary_text": "Charles de Gaulle, Ad Doqi A, Dokki, Egypt"
+      },
+      "terms": [
+        {
+          "offset": 0,
+          "value": "Sheraton Cairo Hotel & Casino"
+        },
+        {
+          "offset": 31,
+          "value": "Charles de Gaulle"
+        },
+        {
+          "offset": 50,
+          "value": "Ad Doqi A"
+        },
+        {
+          "offset": 61,
+          "value": "Dokki"
+        },
+        {
+          "offset": 68,
+          "value": "Egypt"
+        }
+      ],
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "description": "Sheraton Soma Bay Resort, Hurghada, Egypt",
+      "matched_substrings": [
+        {
+          "length": 8,
+          "offset": 0
+        }
+      ],
+      "place_id": "ChIJrUT4kstvTRQRCef9n_GMYGc",
+      "reference": "ChIJrUT4kstvTRQRCef9n_GMYGc",
+      "structured_formatting": {
+        "main_text": "Sheraton Soma Bay Resort",
+        "main_text_matched_substrings": [
+          {
+            "length": 8,
+            "offset": 0
+          }
+        ],
+        "secondary_text": "Hurghada, Egypt"
+      },
+      "terms": [
+        {
+          "offset": 0,
+          "value": "Sheraton Soma Bay Resort"
+        },
+        {
+          "offset": 26,
+          "value": "Hurghada"
+        },
+        {
+          "offset": 36,
+          "value": "Egypt"
+        }
+      ],
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "description": "Sheraton Road, Hurghada 1, Egypt",
+      "matched_substrings": [
+        {
+          "length": 8,
+          "offset": 0
+        }
+      ],
+      "place_id": "EiBTaGVyYXRvbiBSb2FkLCBIdXJnaGFkYSAxLCBFZ3lwdCIuKiwKFAoSCSUDG26rh1IUEdKx45XrEtneEhQKEgkl14PYE4dSFBG9AnZGPogbQA",
+      "reference": "EiBTaGVyYXRvbiBSb2FkLCBIdXJnaGFkYSAxLCBFZ3lwdCIuKiwKFAoSCSUDG26rh1IUEdKx45XrEtneEhQKEgkl14PYE4dSFBG9AnZGPogbQA",
+      "structured_formatting": {
+        "main_text": "Sheraton Road",
+        "main_text_matched_substrings": [
+          {
+            "length": 8,
+            "offset": 0
+          }
+        ],
+        "secondary_text": "Hurghada 1, Egypt"
+      },
+      "terms": [
+        {
+          "offset": 0,
+          "value": "Sheraton Road"
+        },
+        {
+          "offset": 15,
+          "value": "Hurghada 1"
+        },
+        {
+          "offset": 27,
+          "value": "Egypt"
+        }
+      ],
+      "types": [
+        "route",
+        "geocode"
+      ]
+    }
+  ],
+  "status": "OK"
+}
